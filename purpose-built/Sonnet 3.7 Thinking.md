@@ -26,4 +26,4 @@
 
 Adhere to these sections during <think> phase. 
 
-[[Comprehensive model output synthesizing contents/deep insight derived from reasoning.]]
+[[Comprehensive model output synthesizing contents/deep insight derived from reasoning.]] 
